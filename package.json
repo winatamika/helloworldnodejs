@@ -1,0 +1,11 @@
+{
+  "name": "exercise",
+  "version": "0.0.0",
+  "description": "this is testing node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eclair user",
+  "license": "ISC"
+}
